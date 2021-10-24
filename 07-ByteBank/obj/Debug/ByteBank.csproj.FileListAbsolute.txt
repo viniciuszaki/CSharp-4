@@ -1,0 +1,7 @@
+C:\Users\vinic\source\repos\CSharp4ByteBank\07-ByteBank\bin\Debug\07-ByteBank.exe.config
+C:\Users\vinic\source\repos\CSharp4ByteBank\07-ByteBank\bin\Debug\07-ByteBank.exe
+C:\Users\vinic\source\repos\CSharp4ByteBank\07-ByteBank\bin\Debug\07-ByteBank.pdb
+C:\Users\vinic\source\repos\CSharp4ByteBank\07-ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\CSharp4ByteBank\07-ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\CSharp4ByteBank\07-ByteBank\obj\Debug\07-ByteBank.exe
+C:\Users\vinic\source\repos\CSharp4ByteBank\07-ByteBank\obj\Debug\07-ByteBank.pdb
